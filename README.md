@@ -9,6 +9,7 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 - 📫 How to reach me: email me at remastred89@gmail.com
 - ⚡ Fun fact: Iam 14th old
 - 🌐 I From: Indonesia
+- 🛣 City: Gresik -- Gresik is a small city on East Java / Jawa Timur
 - 🤮 I Hate RegExp
 
 ### My Skills
@@ -43,7 +44,7 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 
 ### Activity
 <p align="center">
-  <img width="600" height="200" src="https://github-profile-trophy.vercel.app/?username=turtleion&theme=monokai&margin-w=16">
+  <img width="600" height="200" src="https://github-profile-trophy.vercel.app/?username=turtleion&theme=onedark&margin-w=16">
   <img width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=turtleion&theme=github">
   <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=turtleion&theme=tokyonight">
 </p>
