@@ -45,6 +45,6 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 ### Activity
 <p align="center">
   <img width="400" height="200" src="https://github-profile-trophy.vercel.app/?username=turtleion&theme=onedark&margin-w=16">
-  <img width="1600" height="200" src="https://activity-graph.herokuapp.com/graph?username=turtleion&theme=github">
+  <img width="400" height="200" src="https://activity-graph.herokuapp.com/graph?username=turtleion&theme=github">
   <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=turtleion&theme=tokyonight">
 </p>
