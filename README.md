@@ -40,3 +40,10 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 ### I Want This :)
 ![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
+### Activity
+<p align="center">
+  <img width="600" height="200" src="https://github-profile-trophy.vercel.app/?username=turtleion&theme=monokai&margin-w=16">
+  <img width="600" height="200" src="https://activity-graph.herokuapp.com/graph?username=turtleion&theme=github">
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=turtleion&theme=tokyonight">
+</p>
