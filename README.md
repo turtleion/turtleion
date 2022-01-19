@@ -8,6 +8,7 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 - 💬 Ask me about Programming
 - 📫 How to reach me: email me at remastred89@gmail.com
 - ⚡ Fun fact: Iam 14th old
+- 🌐 I From: Indonesia
 - 🤮 I Hate RegExp
 
 ### My Skills
