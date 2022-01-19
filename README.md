@@ -3,7 +3,7 @@
 Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code on Sept 2020 (Cause Boring on Pandemic) im a beginner of Python language, and my target is be a fullstack developer
 
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Rifars
+- 👯 I’m looking to collaborate on... I dont have a friend that can programming like me :(
 - 🤔 I’m looking for help with Someone
 - 💬 Ask me about Programming
 - 📫 How to reach me: email me at remastred89@gmail.com
