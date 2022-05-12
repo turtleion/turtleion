@@ -2,7 +2,7 @@
 
 Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code on Sept 2020 (Cause Boring on Pandemic) im a beginner of Python language, and my target is be a fullstack developer
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on... I dont have a friend that can programming like me :(
 - 🤔 I’m looking for help with Someone
 - 💬 Ask me about Programming
@@ -11,6 +11,8 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 - 🌐 I From: Indonesia
 - 🛣 City: Gresik -- Gresik is a small city on East Java / Jawa Timur
 - 🤮 I Hate RegExp
+- 📃 Target: Android Apps
+- 🔑 Wanted to learn: C#
 
 ### My Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +34,7 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 ### I Hate this one ;<
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-#### Always RegExp :>
+!Always RegExp :>
 
 ### My Current OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
