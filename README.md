@@ -34,7 +34,7 @@ Hi!, my name is turtleion (Muhammad Faiz), iam backend developer, iam start code
 ### I Hate this one ;<
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)
-!Always RegExp :>
+- Always RegExp :>
 
 ### My Current OS
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
