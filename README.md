@@ -1,1 +1,1 @@
-# males nulis panjang2 bg, intinya ini akun github gajelas
+Python Beginner-Intermediate Programmer
